@@ -1,0 +1,78 @@
+[
+  {
+    "docId": "AX2u8uRRdb9K4wW-84VY",
+    "categories": [
+      "一级分类名",
+      "二级分类名"
+    ],
+    "enabled": true,
+    "post": "如何查看快递单号",
+    "replies": [
+      {
+        "rtype": "hyperlink",
+        "title": "哈",
+        "content": "呆",
+        "url": "https://up.enterdesk.com/edpic_source/53/0a/da/530adad966630fce548cd408237ff200.jpg"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "docId": "AX2u4pmTdb9K4wW-84VU",
+    "categories": [
+      "节点1"
+    ],
+    "enabled": true,
+    "post": "后天计划是什么",
+    "replies": [
+      {
+        "rtype": "plain",
+        "content": "农村公路"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "docId": "AX2u4OTidb9K4wW-84VT",
+    "categories": [
+      "节点1"
+    ],
+    "enabled": true,
+    "post": "明天的计划是什么",
+    "replies": [
+      {
+        "rtype": "plain",
+        "content": "安评报告"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "docId": "AX2tkQyndb9K4wW-84VL",
+    "categories": [
+      "节点2"
+    ],
+    "enabled": true,
+    "post": "边坡题目难吗",
+    "replies": [
+      {
+        "rtype": "plain",
+        "content": "比较难"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "docId": "AX2tkG1Fdb9K4wW-84VK",
+    "categories": [],
+    "enabled": true,
+    "post": "岩土考试成绩什么时候出",
+    "replies": [
+      {
+        "rtype": "plain",
+        "content": "不知道，可能 是1.1"
+      }
+    ],
+    "similarQuestions": []
+  }
+]
